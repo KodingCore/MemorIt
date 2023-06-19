@@ -1,0 +1,13 @@
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt by IMLL.csproj.AssemblyReference.cache
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt by IMLL.csproj.SuggestedBindingRedirects.cache
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt_by_IMLL.Properties.Resources.resources
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt by IMLL.csproj.GenerateResource.cache
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt by IMLL.csproj.CoreCompileInputs.cache
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt_by_IMLL.Form1.resources
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt_by_IMLL.Parametres.resources
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt_by_IMLL.Alarm.resources
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\bin\Debug\MemorIt.exe.config
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\bin\Debug\MemorIt.exe
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\bin\Debug\MemorIt.pdb
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt.exe
+E:\Kévin\Creations\Projets Visual Studio\MemorIt by IMLL\obj\Debug\MemorIt.pdb
